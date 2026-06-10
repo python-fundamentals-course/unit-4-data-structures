@@ -1,0 +1,17 @@
+{
+  "id": "unit-4",
+  "slug": "unit-4-data-structures",
+  "title": "Data Structures",
+  "description": "Choosing between list, dict, tuple, and set \u2014 and the list-of-dicts pattern for real data.",
+  "learning_objectives": [
+    "Choose the right data structure for a given task",
+    "Use the list-of-dicts pattern to represent tabular data",
+    "Apply list comprehensions and dict operations to process data"
+  ],
+  "original_video": "V4 \u2014 Choosing the Right Data Structure",
+  "curated_videos": [
+    "Corey Schafer: Python Tutorial \u2014 Lists, Tuples, and Sets",
+    "Corey Schafer: Python Tutorial \u2014 Dictionaries"
+  ],
+  "codespace_repo": "unit-4-data-structures"
+}
