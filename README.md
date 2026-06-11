@@ -1,6 +1,6 @@
 # Unit 4: Data Structures
 
-> **Python Fundamentals** | NTU Academy for Professional and Continuing Education
+> **Python Fundamentals**
 
 Choosing between list, dict, tuple, and set — and the list-of-dicts pattern for real data.
 
@@ -29,5 +29,4 @@ By the end of this unit you will be able to:
 
 ## Course
 
-Part of the [Python Fundamentals](https://github.com/python-fundamentals-course/course-overview) course —
-NTU Academy for Professional and Continuing Education.
+Part of the [Python Fundamentals](https://github.com/python-fundamentals-course/course-overview) course.
