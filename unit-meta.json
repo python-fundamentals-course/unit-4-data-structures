@@ -8,10 +8,45 @@
     "Use the list-of-dicts pattern to represent tabular data",
     "Apply list comprehensions and dict operations to process data"
   ],
-  "original_video": "V4 \u2014 Choosing the Right Data Structure",
-  "curated_videos": [
-    "Corey Schafer: Python Tutorial \u2014 Lists, Tuples, and Sets",
-    "Corey Schafer: Python Tutorial \u2014 Dictionaries"
+  "codespace_repo": "unit-4-data-structures",
+  "videos": [
+    {
+      "name": "V4 \u2014 Choosing the Right Data Structure",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1216354462",
+      "duration_min": 15
+    },
+    {
+      "name": "The Three-Question Data Structure Decision Framework",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1216348405",
+      "duration_min": 3
+    },
+    {
+      "name": "List of Dicts Pattern Overview",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1216757117",
+      "duration_min": 2
+    },
+    {
+      "name": "Avoiding Common Python Data Structure Misuses",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1216757493",
+      "duration_min": 3
+    }
   ],
-  "codespace_repo": "unit-4-data-structures"
+  "curated_videos": [
+    {
+      "name": "C4 \u2014 Lists, Tuples & Sets",
+      "type": "youtube",
+      "url": "https://youtu.be/W8KRzm-HUcc",
+      "duration_min": 20
+    },
+    {
+      "name": "C5 \u2014 Dictionaries",
+      "type": "youtube",
+      "url": "https://youtu.be/daefaLgNkw0",
+      "duration_min": 10
+    }
+  ]
 }
