@@ -2,7 +2,7 @@
   "id": "unit-4",
   "slug": "unit-4-data-structures",
   "title": "Data Structures",
-  "description": "Choosing between list, dict, tuple, and set \u2014 and the list-of-dicts pattern for real data.",
+  "description": "Choosing between list, dict, tuple, and set — and the list-of-dicts pattern for real data.",
   "learning_objectives": [
     "Choose the right data structure for a given task",
     "Use the list-of-dicts pattern to represent tabular data",
@@ -11,7 +11,7 @@
   "codespace_repo": "unit-4-data-structures",
   "videos": [
     {
-      "name": "V4 \u2014 Choosing the Right Data Structure",
+      "name": "V4 — Choosing the Right Data Structure",
       "type": "vimeo",
       "url": "https://vimeo.com/1216354462",
       "duration_min": 15
@@ -37,13 +37,13 @@
   ],
   "curated_videos": [
     {
-      "name": "C4 \u2014 Lists, Tuples & Sets",
+      "name": "C6 — Lists, Tuples & Sets",
       "type": "youtube",
       "url": "https://youtu.be/W8KRzm-HUcc",
       "duration_min": 20
     },
     {
-      "name": "C5 \u2014 Dictionaries",
+      "name": "C7 — Dictionaries",
       "type": "youtube",
       "url": "https://youtu.be/daefaLgNkw0",
       "duration_min": 10
